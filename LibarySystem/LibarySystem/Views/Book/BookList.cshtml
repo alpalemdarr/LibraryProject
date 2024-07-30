@@ -1,0 +1,27 @@
+﻿@model IEnumerable<BookDTO>
+<div class="container w-75">
+    <div class="row">
+        @foreach(var book in Model)
+        {
+            <div class="col-md-6 shadow-4 hover">
+                <div class="card mb-5">
+                    <div class="d-flex justify-content-center">
+                        <img src="@book.FilePath" class="card-img-top w-50 h-25" alt="...">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title text-center text-uppercase fw-bold h4 text">@book.BookName</h5>
+                        <p class="card-text text-uppercase text-center"><span class="fw-bold">Kategori:</span> @book.BookTitle</p>
+                        <p class="card-text text-uppercase text-center"><span class="fw-bold">Yazar:</span> @book.Author</p>
+                        <p class="card-text text-uppercase text-center"><small class="text-body-secondary"><span class="fw-bold">Yayınlanma Tarihi:</span> @book.PublishedDate.ToString("yyyy-MM-dd")</small></p>
+                        <div class="text-center">
+                            <a href="/Book/UpdateBook?bookId=@book.BookId" class="btn btn-primary">Güncelle</a>
+                            <a href="/Book/DeleteBook?bookId=@book.BookId" class="btn btn-danger">Sil</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+        
+    </div>
+</div>

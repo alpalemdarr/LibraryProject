@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LibarySystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibarySystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\0e44e904-9e71-4318-8fec-ffe933d91d1b.jpg",
+      "PackagePath": "staticwebassets\\img\\0e44e904-9e71-4318-8fec-ffe933d91d1b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\297ef2ba-9693-4385-8d16-0e415823ef63.jfif",
+      "PackagePath": "staticwebassets\\img\\297ef2ba-9693-4385-8d16-0e415823ef63.jfif"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\4e4095f3-1dec-4dde-bfa2-4b1d7ab5d9b5.jpg",
+      "PackagePath": "staticwebassets\\img\\4e4095f3-1dec-4dde-bfa2-4b1d7ab5d9b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\4f2baa3c-5a9c-4316-8a07-f3555c2c0df6.jpg",
+      "PackagePath": "staticwebassets\\img\\4f2baa3c-5a9c-4316-8a07-f3555c2c0df6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\640c627b-237f-4410-920e-641b9d9b887d.jpg",
+      "PackagePath": "staticwebassets\\img\\640c627b-237f-4410-920e-641b9d9b887d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\900d6695-dde6-4d46-9fa9-c491e22c4891.jpg",
+      "PackagePath": "staticwebassets\\img\\900d6695-dde6-4d46-9fa9-c491e22c4891.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\RecepTayipKitap.jpg",
+      "PackagePath": "staticwebassets\\img\\RecepTayipKitap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\UmıtMerıc.jpg",
+      "PackagePath": "staticwebassets\\img\\UmıtMerıc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\anasayfa.jpg",
+      "PackagePath": "staticwebassets\\img\\anasayfa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\anasayfa2.jpg",
+      "PackagePath": "staticwebassets\\img\\anasayfa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\anasayfa3.jpg",
+      "PackagePath": "staticwebassets\\img\\anasayfa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\b213dfdc-be4a-42cd-8bca-1196597f12ca.jpg",
+      "PackagePath": "staticwebassets\\img\\b213dfdc-be4a-42cd-8bca-1196597f12ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\bd4f35b7-eaca-4f5c-9acb-74d169072146.jpg",
+      "PackagePath": "staticwebassets\\img\\bd4f35b7-eaca-4f5c-9acb-74d169072146.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\birkacolumsonra.jpg",
+      "PackagePath": "staticwebassets\\img\\birkacolumsonra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\df7dcdaf-e3ec-42f3-9d2f-6e36b67fff01.jpeg",
+      "PackagePath": "staticwebassets\\img\\df7dcdaf-e3ec-42f3-9d2f-6e36b67fff01.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\e5967cee-a0f1-4c83-bb38-fe30b4df9791.jpg",
+      "PackagePath": "staticwebassets\\img\\e5967cee-a0f1-4c83-bb38-fe30b4df9791.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\ec638aae-0d2a-4252-8b28-cec57e4a3820.jpg",
+      "PackagePath": "staticwebassets\\img\\ec638aae-0d2a-4252-8b28-cec57e4a3820.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\img\\fadcf3db-53f3-4f82-88e8-d88bb22df41c.jpg",
+      "PackagePath": "staticwebassets\\img\\fadcf3db-53f3-4f82-88e8-d88bb22df41c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alper\\source\\repos\\LibarySystem\\LibarySystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LibarySystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LibarySystem.props",
+      "PackagePath": "build\\LibarySystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LibarySystem.props",
+      "PackagePath": "buildMultiTargeting\\LibarySystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LibarySystem.props",
+      "PackagePath": "buildTransitive\\LibarySystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

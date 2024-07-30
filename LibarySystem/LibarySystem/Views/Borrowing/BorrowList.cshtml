@@ -1,0 +1,45 @@
+﻿@model IEnumerable<BorrowingsDTO>
+<div class="container mt-5">
+    <div class="row">
+@foreach(var borrow in Model)
+{
+    <div class="col-md-6 shadow-5 hover">
+
+        <div class="card text-center mb-4">
+        <div class="card-header bg-dark text-white">
+             <p class="card-text">KİTAP ADI : @borrow.Book.BookName</p>
+            
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">KİRALAYAN : @borrow.User.Name</h5>
+            <p class="card-text">KİRALAMA TARİHİ : @borrow.BorrowingDate.ToString("yyyy-MM-dd")</p>
+            <p class="card-text">SON TESLİM TARİHİ : @borrow.ReturnTime.ToString("yyyy-MM-dd")</p>
+            <div class="text-center">
+                <a href="/Borrowing/UpdateBorrow?borrowId=@borrow.BorrowingsId" class="btn btn-primary">Güncelle</a>
+                <a href="/Borrowing/DeleteBorrow?borrowId=@borrow.BorrowingsId" class="btn btn-danger">Kiralamayı Sonlandır</a>
+            </div>
+        </div>
+        <div class="card-footer text-body-secondary bg-dark text-white">
+            @{
+                int daysDifference = (borrow.ReturnTime - borrow.BorrowingDate).Days;
+            }
+
+            @if (daysDifference > 1)
+            {
+                <span>Kiralamanın Sona Ermesine @daysDifference Gün Kaldı</span>
+            }
+            else if (daysDifference == 0)
+            {
+                <span>Kiralama Süresi Doldu Lütfen Kullanıcı İle İletişime Geçiniz</span>
+            }
+            else if (daysDifference < 0)
+            {
+                <span>Kiralamanın Üzerinden @(-daysDifference) Gün Geçti</span>
+            }
+        </div>
+    </div>
+    </div>
+
+}
+    </div>
+</div>

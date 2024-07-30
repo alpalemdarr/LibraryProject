@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BookDTO>
+
+<div id="carouselExampleAutoplaying" class="carousel slide mt-4" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="/img/anasayfa.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/anasayfa2.jpg" class="d-block w-100" alt="...">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/anasayfa3.jpg" class="d-block w-100" alt="...">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+<div class="container w-100 mt-4 shadow">
+    <div class="row">
+        @foreach (var book in Model)
+        {
+            <div class="col-md-6 shadow-4 hover w-50">
+                <div class="card mb-5">
+                    <div class="d-flex justify-content-center">
+                        <img src="@book.FilePath" class="card-img-top w-50" alt="...">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title text-center text-uppercase fw-bold h4 text">@book.BookName</h5>
+                        <p class="card-text text-uppercase text-center"><span class="fw-bold">Kategori:</span> @book.BookTitle</p>
+                        <p class="card-text text-uppercase text-center"><span class="fw-bold">Yazar:</span> @book.Author</p>
+                        <p class="card-text text-uppercase text-center"><small class="text-body-secondary"><span class="fw-bold">Yayınlanma Tarihi:</span> @book.PublishedDate.ToString("yyyy-MM-dd")</small></p>
+                        <div class="text-center">
+                            <a href="@Url.Action("AddBorrow", "Borrowing")" class="btn btn-success mx-auto d-grid w-100 mt-3 text-uppercase text-white fs-5 ">Kirala</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </div>
+</div>
+</div>
+
+

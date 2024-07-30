@@ -1,0 +1,49 @@
+﻿@model BorrowingsDTO
+
+@{
+    ViewBag.Title = "Add Borrow";
+}
+
+<h2 class="text-center fw-bolder text-uppercase ">Kiralama</h2>
+<div class="container shadow">
+
+    <form asp-action="AddBorrow" method="post">
+
+        <div class="mb-3">
+            <label asp-for="BookId" class="form-label text-uppercase fw-bold">Kitap Seç</label>
+            <select asp-for="BookId" asp-items="ViewBag.BookItems" class="form-control">
+                <option value="">Kitap Seç</option>
+            </select>
+            <span asp-validation-for="BookId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="UserId" class="form-label text-uppercase fw-bold">Kullanıcı Seç</label>
+            <select asp-for="UserId" asp-items="ViewBag.UserItems" class="form-control">
+                <option value="">Kullanıcı Seç</option>
+            </select>
+            <span asp-validation-for="UserId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="BorrowingDate" class="form-label text-uppercase fw-bold">Kiralama Tarihi</label>
+            <input asp-for="BorrowingDate" class="form-control" type="date" />
+            <span asp-validation-for="BorrowingDate" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ReturnTime" class="form-label text-uppercase fw-bold">Son Teslim Tarihi</label>
+            <input asp-for="ReturnTime" class="form-control" type="date" />
+            <span asp-validation-for="ReturnTime" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-dark mt-3 mb-3 text-uppercase">Kiralamayı Başlat</button>
+    </form>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+
+</div>

@@ -1,0 +1,32 @@
+﻿@model UserDTO
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-dark text-white text-center text-uppercase">
+                    Kullanıcı Güncelle
+                </div>
+                <div class="card-body">
+                    <form asp-action="UpdateUser" method="post">
+                        <input type="hidden" asp-for="UserId" />
+                        <div class="mb-3">
+                            <label class="form-label">Kullanıcı Adı</label>
+                            <input type="text" class="form-control" asp-for="Name" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Email</label>
+                            <input type="text" class="form-control" asp-for="Email" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Kayıt Tarihi</label>
+                            <input type="date" class="form-control" asp-for="MembershipDate" required>
+                        </div>
+
+                        <button type="submit" class="btn btn-dark mx-auto d-grid w-100 text-uppercase">Güncelle</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\CarMechanic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\repositories\\servicereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\repositories\\servicereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\views\\servicereport\\serviceslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\views\\servicereport\\serviceslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\views\\servicereport\\updateservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\views\\servicereport\\updateservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\views\\servicereport\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\views\\servicereport\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\controllers\\servicereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\controllers\\servicereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\models\\servicereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\models\\servicereportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\controllers\\malfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\controllers\\malfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\data\\servicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\data\\servicereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\repositories\\malfunctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\repositories\\malfunctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|c:\\users\\alper\\source\\repos\\carmechanic\\carmechanic\\data\\malfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5DAB6-94DD-4727-9D33-2E759E89E398}|CarMechanic\\CarMechanic.csproj|solutionrelative:carmechanic\\data\\malfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceReportController.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Controllers\\ServiceReportController.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Controllers\\ServiceReportController.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Controllers\\ServiceReportController.cs",
+              "RelativeToolTip": "CarMechanic\\Controllers\\ServiceReportController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:27:51.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddService.cshtml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\ServiceReport\\AddService.cshtml",
+              "RelativeDocumentMoniker": "CarMechanic\\Views\\ServiceReport\\AddService.cshtml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\ServiceReport\\AddService.cshtml",
+              "RelativeToolTip": "CarMechanic\\Views\\ServiceReport\\AddService.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T12:32:18.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarMechanic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarMechanic\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAFQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T07:38:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MalfunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Controllers\\MalfunctionController.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Controllers\\MalfunctionController.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Controllers\\MalfunctionController.cs",
+              "RelativeToolTip": "CarMechanic\\Controllers\\MalfunctionController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:22:52.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Models\\ServiceReportDTO.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Models\\ServiceReportDTO.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Models\\ServiceReportDTO.cs",
+              "RelativeToolTip": "CarMechanic\\Models\\ServiceReportDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:47:27.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceReport.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Data\\ServiceReport.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Data\\ServiceReport.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Data\\ServiceReport.cs",
+              "RelativeToolTip": "CarMechanic\\Data\\ServiceReport.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:16:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Repositories\\ServiceReportRepository.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Repositories\\ServiceReportRepository.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Repositories\\ServiceReportRepository.cs",
+              "RelativeToolTip": "CarMechanic\\Repositories\\ServiceReportRepository.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAewGsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:17:44.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesList.cshtml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\ServiceReport\\ServicesList.cshtml",
+              "RelativeDocumentMoniker": "CarMechanic\\Views\\ServiceReport\\ServicesList.cshtml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\ServiceReport\\ServicesList.cshtml",
+              "RelativeToolTip": "CarMechanic\\Views\\ServiceReport\\ServicesList.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:53:34.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateService.cshtml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\ServiceReport\\UpdateService.cshtml",
+              "RelativeDocumentMoniker": "CarMechanic\\Views\\ServiceReport\\UpdateService.cshtml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Views\\ServiceReport\\UpdateService.cshtml",
+              "RelativeToolTip": "CarMechanic\\Views\\ServiceReport\\UpdateService.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T15:03:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CarMechanic\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\appsettings.Development.json",
+              "RelativeToolTip": "CarMechanic\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T00:00:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Data\\DataContext.cs",
+              "RelativeToolTip": "CarMechanic\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:26:53.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MalfunctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Repositories\\MalfunctionRepository.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Repositories\\MalfunctionRepository.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Repositories\\MalfunctionRepository.cs",
+              "RelativeToolTip": "CarMechanic\\Repositories\\MalfunctionRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:17:16.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Malfunction.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Data\\Malfunction.cs",
+              "RelativeDocumentMoniker": "CarMechanic\\Data\\Malfunction.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\CarMechanic\\CarMechanic\\Data\\Malfunction.cs",
+              "RelativeToolTip": "CarMechanic\\Data\\Malfunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:26:56.338Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1294,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

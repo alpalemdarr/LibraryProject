@@ -1,0 +1,39 @@
+﻿@model BookDTO
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-dark text-white text-center text-uppercase">
+                    Kitap Ekle
+                </div>
+                <div class="card-body">
+                    <form asp-action="AddBook" method="post" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label class="form-label">Kitap Adı</label>
+                            <input type="text" class="form-control" asp-for="BookName" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Kitap Başlığı</label>
+                            <input type="text" class="form-control" asp-for="BookTitle" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Kitabın Yazarı</label>
+                            <input type="text" class="form-control" asp-for="Author" required>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Yayınlanma Tarihi</label>
+                            <input type="date" class="form-control" asp-for="PublishedDate" required>
+                        </div>
+                        <div class="form-group my-2">
+                            <label>Dosya Seç:</label>
+                            <input type="file" id="file" asp-for="File" />
+                        </div>
+
+                        <button type="submit" class="btn btn-dark mx-auto d-grid w-100 mt-3 text-uppercase">Kitabı Kaydet</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
